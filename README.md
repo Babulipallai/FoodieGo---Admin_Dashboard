@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technologies Used:
+React.js
+React Apexchart
+Framer motion
+IconScout
+CSS
+
 ## Available Scripts
 
 In the project directory, you can run:
