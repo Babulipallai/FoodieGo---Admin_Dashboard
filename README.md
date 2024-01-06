@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Technologies Used:
-React.js
-React Apexchart
-Framer motion
-IconScout
-CSS
+1.React.js
+2.React Apexchart
+3.Framer motion
+4.IconScout
+5.CSS
 
 ## Available Scripts
 
